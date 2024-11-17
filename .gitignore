@@ -125,3 +125,5 @@ pip-wheel-metadata/nupic.embodied.dist-info/LICENSE
 pip-wheel-metadata/nupic.embodied.dist-info/METADATA
 
 pip-wheel-metadata/nupic.embodied.dist-info/top_level.txt
+
+**/checkpoint
